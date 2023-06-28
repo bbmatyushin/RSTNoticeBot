@@ -1,0 +1,5 @@
+.idea
+parsing/__pycache__
+parsing/Dockerfile
+parsing/requirements_docker.txt
+venv
